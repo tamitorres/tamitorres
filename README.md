@@ -1,12 +1,12 @@
 # Olá, eu sou a Tamiris!
 
  ### Sou formada em Ciências Biológicas, cursando um MBA em gestão de saúde e atualmente estou transicionando de carreira para análise de dados.👩‍💻
- ### Atualmente estou no curso de Dados fornecido pela Ada Tech.
+ ### Atualmente estou no curso de Dados fornecido pela Ada Tech. Aqui você poderá encontrar meus projetos de estudo e projetos que contribui.
 
 # _Hello, I am Tamiris!_
 
 ### _I have a degree in Biological Sciences, an MBA in health management and I'm currently switching careers to data analysis.👩‍💻_
-### _I'm currently studying Data at Ada Tech._
+### _I'm currently studying Data at Ada Tech. Here you can find my study projects and projects that I contribute to._
 
  ## Minhas Redes 💻
 
